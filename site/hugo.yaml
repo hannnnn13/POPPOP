@@ -1,7 +1,7 @@
 baseURL: https://example.invalid/
 title: What we make for ourselves
-locale: en-AU
-defaultContentLanguage: en
+locale: ko-KR
+defaultContentLanguage: ko
 
 copyright: What we make for ourselves
 enableRobotsTXT: true
