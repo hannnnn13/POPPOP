@@ -1,5 +1,5 @@
-baseURL: https://example.invalid/
-title: What we make for ourselves
+baseURL: https://hannnnn13.github.io/POPPOP/
+title: WHO AM I??
 locale: ko-KR
 defaultContentLanguage: ko
 
@@ -58,8 +58,8 @@ menu:
       weight: 60
 
 params:
-  author: The Night Shift Committee
-  description: Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves.
+  author: 김한울
+  description: 전북대 컴퓨터인공지능학부에 재직중인 2학년 김한울입니다.
   defaultTheme: auto
   disableThemeToggle: false
   disableSpecial1stPost: true

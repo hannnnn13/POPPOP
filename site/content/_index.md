@@ -1,5 +1,5 @@
 ---
-title: "What we make for ourselves"
+title: "Home"
 description: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
 demo: true
 
@@ -18,8 +18,8 @@ home:
     - "formal_record"
 
 opening:
-  headline: "What we make for ourselves"
-  deck: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
+  headline: "안녕하세요, 보안 전문가를 꿈꾸는 김한울입니다."
+  deck: "전북대학교 컴퓨터인공지능학부에서 알고리즘 및 정보보안을 배우고 있습니다."
   image: "images/demo-opening.svg"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
