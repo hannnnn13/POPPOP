@@ -3,7 +3,7 @@ title: WHO AM I??
 locale: ko-KR
 defaultContentLanguage: ko
 
-copyright: "© 2026 김한울. All rights reserved."
+copyright: "© 2026 밤걷. All rights reserved."
 enableRobotsTXT: true
 
 pagination:
@@ -80,7 +80,7 @@ params:
     hidePoweredBy: true
     text: "Made with [No Fate](https://github.com/OliverObst/no-fate) by [Oliver Obst](https://oliver.obst.eu/) and [Hugo](https://gohugo.io/)."
   label:
-    text: "© 2026 김한울. All rights reserved."
+    text: "© 2026 밤걷. All rights reserved."
   noFate:
     style: wild
     defaultMode: editorial
@@ -93,8 +93,8 @@ params:
     validateContentModel: true
     strictHomeSelections: true
     wild:
-      masthead: "Independent notes / practical disturbances"
-      issue: "Issue 01 / keep the receipt"
+      masthead: "밤걷의 포트폴리오"
+      issue: "2026 / 개인 소개 및 프로젝트"
     home:
       featuredProposition: example-maintenance-is-design
     archive:
@@ -116,7 +116,7 @@ params:
         - type
         - topic
       highlightCreators:
-        - Iona Bramble
+        - 밤걷
       showAbstracts: false
 
 markup:

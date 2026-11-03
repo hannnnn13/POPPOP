@@ -18,7 +18,7 @@ home:
     - "formal_record"
 
 opening:
-  headline: "안녕하세요, 보안 전문가를 꿈꾸는 김한울입니다."
+  headline: "안녕하세요, 보안 전문가를 꿈꾸는 밤걷입니다."
   deck: "전북대학교 컴퓨터인공지능학부에서 알고리즘 및 정보보안을 배우고 있습니다."
   image: "images/demo-opening.svg"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
@@ -46,16 +46,15 @@ formal_record: "/record/"
 visual:
   mode: "editorial"
   wild_title_lines:
-    - "What we"
-    - "make"
-    - "for"
-    - "ourselves"
-  wild_reference: "Ref. WMFO–01 / Built by hand"
+    - "보안 전문가를"
+    - "꿈꾸는"
+    - "밤걷의"
+    - "포트폴리오"
+  wild_reference: "전북대학교 컴퓨터인공지능학부"
 ---
 
-What we inherit arrives with instructions.
+안녕하세요! 밤걷입니다. 
 
-What we make for ourselves arrives with fingerprints, pencil marks, spare
-screws, and a name nobody agreed on. This is a publication about useful
-contraptions, stubborn questions, maintenance rituals, and records that refuse
-to stay tidy.
+이 곳은 제가 남기고 싶은 것들을 자유롭게 남기는 페이지입니다. 
+닉네임을 이렇게 지은 이유는, 넷플릭스 밤을걷다 시리즈가 제게 있어서 감명 깊고 처음으로 많은 생각이 들게했던 소중한 시리즈이기 때문입니다.
+저는 전북대 컴인지에 재학 중이며, 정보보안에 대해서 많은 노력을 기하고 있습니다.
