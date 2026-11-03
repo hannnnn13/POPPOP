@@ -1,10 +1,10 @@
 ---
-title: "Search"
+title: "검색"
 layout: "search"
 date: 2026-01-01
 lastmod: 2026-01-01
 summary: "Search essays, notes, questions, projects, and records."
-placeholder: "Search the cupboards"
+placeholder: "검색어를 입력하세요..."
 demo: true
 
 content:
@@ -35,7 +35,7 @@ archive:
   people: []
 
 seo:
-  description: "Search essays, notes, questions, projects, and records."
+  description: "밤걷의 포트폴리오 사이트 내 글 및 프로젝트 검색"
   image: ""
   canonical: ""
 ---
