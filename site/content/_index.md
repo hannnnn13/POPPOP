@@ -9,13 +9,8 @@ content:
 home:
   modules:
     - "opening"
-    - "featured_argument"
-    - "visual_interruption"
-    - "questions"
-    - "featured_archive"
     - "selected_writing"
     - "current_work"
-    - "formal_record"
 
 opening:
   headline: "안녕하세요, 보안 전문가를 꿈꾸는 밤걷입니다."
