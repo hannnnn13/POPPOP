@@ -3,7 +3,7 @@ title: WHO AM I??
 locale: ko-KR
 defaultContentLanguage: ko
 
-copyright: What we make for ourselves
+copyright: "© 2026 김한울. All rights reserved."
 enableRobotsTXT: true
 
 pagination:
@@ -59,7 +59,6 @@ menu:
 
 params:
   author: 김한울
-  copyright: "© 2026 김한울. All rights reserved."
   description: 전북대 컴퓨터인공지능학부에 재직중인 2학년 김한울입니다.
   defaultTheme: auto
   disableThemeToggle: false
@@ -81,7 +80,7 @@ params:
     hidePoweredBy: true
     text: "Made with [No Fate](https://github.com/OliverObst/no-fate) by [Oliver Obst](https://oliver.obst.eu/) and [Hugo](https://gohugo.io/)."
   label:
-    text: What we make for ourselves
+    text: "© 2026 김한울. All rights reserved."
   noFate:
     style: wild
     defaultMode: editorial
