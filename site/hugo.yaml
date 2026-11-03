@@ -22,40 +22,28 @@ taxonomies:
 
 menu:
   main:
-    - identifier: essays
-      name: Essays
-      url: /essays/
+    - identifier: about
+      name: 소개
+      url: /about/
       weight: 10
       params:
-        secondary: arguments, questions, notes
-    - identifier: archives
-      name: Archives
-      url: /archives/
+        secondary: 보안 공부 계기, 학습 목표, 역량 및 적용 사례
+    - identifier: projects
+      name: 프로젝트
+      url: /projects/
       weight: 20
       params:
-        secondary: documents, images, histories
-    - identifier: projects
-      name: Projects
-      url: /projects/
+        secondary: 포트폴리오 사이트 구축 활동 및 산출물
+    - identifier: notes
+      name: 학습 기록
+      url: /notes/
       weight: 30
       params:
-        secondary: systems, objects, experiments
-    - identifier: record
-      name: Record
-      url: /record/
-      weight: 40
-      params:
-        secondary: publications, talks, selected work
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 50
-      params:
-        secondary: biography, contact, policies
+        secondary: Git, 개발 환경 구축 정리 및 메모
     - identifier: search
-      name: Search
+      name: 검색
       url: /search/
-      weight: 60
+      weight: 40
 
 params:
   author: 김한울
