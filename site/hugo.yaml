@@ -96,7 +96,7 @@ params:
       masthead: "밤걷의 포트폴리오"
       issue: "2026 / 개인 소개 및 프로젝트"
     home:
-      featuredProposition: example-maintenance-is-design
+      featuredProposition:
     archive:
       showArtefactNumbers: true
       showRights: true
