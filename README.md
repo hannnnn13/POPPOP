@@ -43,3 +43,18 @@ python3 .github/pages_build.py --build
 ```
 
 `빌드 완료`가 나오고 `public/index.html`이 생기면 성공입니다. `public/` 폴더는 `.gitignore`로 저장소에 올라가지 않습니다.
+
+## 수정할 파일 위치
+
+| 바꾸고 싶은 것 | 파일 |
+| --- | --- |
+| 홈 화면 문구와 홈에 보일 글 | `site/content/_index.md` |
+| 소개 페이지 | `site/content/about/_index.md` |
+| 프로젝트 글 | `site/content/projects/<이름>/index.md` |
+| 학습 기록 글 | `site/content/notes/<이름>/index.md` |
+| 사이트 제목, 메뉴, 작성자, 푸터 | `site/hugo.yaml` |
+| 테마 화면 문구의 한국어 번역 | `site/i18n/ko.yaml` |
+| 테마 CSS 보완 | `site/layouts/_partials/extend_head.html` |
+| 자동 배포 설정 | `.github/workflows/hugo-pages.yml` |
+
+테마 원본(`site/themes/template`)은 직접 고치지 않고, 필요한 변경은 위의 `site/` 쪽 파일로 덮어씁니다.
