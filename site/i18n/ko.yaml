@@ -25,3 +25,42 @@
 - id: nf_heading_link
   translation: "이 절로 가는 링크: %s"
 
+- id: nf_selected_writing
+  translation: "선별한 글"
+
+- id: nf_current_activity
+  translation: "현재 활동"
+
+- id: nf_tags
+  translation: "태그"
+
+- id: nf_date
+  translation: "날짜"
+
+- id: nf_author
+  translation: "작성자"
+
+- id: nf_type
+  translation: "종류"
+
+- id: nf_status
+  translation: "상태"
+
+- id: nf_all
+  translation: "전체"
+
+- id: nf_clear_filters
+  translation: "필터 지우기"
+
+- id: nf_chronological_index
+  translation: "시간순 목록"
+
+- id: nf_theme
+  translation: "화면 테마"
+
+- id: nf_rss_feed
+  translation: "RSS 피드"
+
+- id: nf_canonical_url
+  translation: "대표 주소"
+
