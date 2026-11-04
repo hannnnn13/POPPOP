@@ -1,6 +1,6 @@
 ---
 title: "프로젝트"
-description: "직접 만들고 배포해 본 활동과 그 결과물입니다."
+description: "직접 만들고 배포해 본 활동들을 기록 중입니다."
 
 content:
   format: "section"
@@ -18,5 +18,3 @@ listing:
       label: "분야"
       param: "content.collection"
 ---
-
-만든 것, 막혔던 곳, 고친 방법을 함께 기록합니다.
