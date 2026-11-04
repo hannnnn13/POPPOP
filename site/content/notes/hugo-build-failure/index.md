@@ -39,3 +39,8 @@ ERROR No Fate homepage: selected_writing references missing or unpublished path 
 ## 다시 확인한 결과
 
 수정한 커밋을 push하자 Actions의 빌드와 배포가 모두 성공했고([Actions 기록](https://github.com/hannnnn13/POPPOP/actions/runs/41758654144)), 공개 사이트에도 변경이 반영됐습니다.
+
+## 다음에는
+
+- 파일을 지우기 전에 그 파일을 가리키는 곳이 있는지 먼저 검색합니다.
+- push하기 전에 배포와 같은 명령으로 직접 빌드해 봅니다.
