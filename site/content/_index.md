@@ -18,14 +18,7 @@ opening:
   image: "images/demo-opening.svg"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
-featured_argument: "/essays/maintenance-is-a-design-material/"
-featured_archive: "/archives/tide-room-ledgers/"
-
-questions:
-  - "/questions/what-are-we-optimising/"
-
 selected_writing:
-  - "/essays/maintenance-is-a-design-material/"
   - "/notes/calibrating-the-window/"
 
 visual_interruption:
@@ -36,7 +29,6 @@ visual_interruption:
 current_projects:
   - "/projects/lantern-index/"
 
-formal_record: "/record/"
 
 visual:
   mode: "editorial"
