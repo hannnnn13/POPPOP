@@ -49,3 +49,12 @@ Hugo Themes에서 **No Fate** 테마를 골랐습니다. 프로젝트와 학습 
 ### 5. 커밋 방식
 
 커밋 하나에는 이유를 설명할 수 있는 변경 하나만 담았습니다. 메시지 앞에는 채점 기준 번호(예: `P80`)를 붙여, 어떤 기준을 위한 변경인지 이력만 보고도 알 수 있게 했습니다.
+
+## 결과물
+
+- 공개 사이트: [hannnnn13.github.io/POPPOP](https://hannnnn13.github.io/POPPOP/)
+- 소스 저장소: [github.com/hannnnn13/POPPOP](https://github.com/hannnnn13/POPPOP)
+- 자동 배포 기록: [GitHub Actions 실행 목록](https://github.com/hannnnn13/POPPOP/actions)
+- 작업 이력: [커밋 목록](https://github.com/hannnnn13/POPPOP/commits/main/)
+
+지금 보고 있는 이 사이트가 결과물입니다. 테마 예시 대신 내 소개와 활동이 들어가 있고, main에 push하면 몇 분 안에 공개 사이트에 반영됩니다.
