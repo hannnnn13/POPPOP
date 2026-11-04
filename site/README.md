@@ -1,75 +1,10 @@
-# No Fate demonstration site
+# site 폴더
 
-This directory is a self-contained Hugo site used to exercise the public theme.
-All people, organisations, projects, publications, events, propositions, and
-historical claims in it are fictional.
+이 폴더가 실제로 배포되는 Hugo 사이트입니다. 설치, 빌드, 수정, 재배포 방법은 저장소 맨 위의 [README.md](../README.md)를 참고하세요.
 
-The same boundary applies to `data/record.yaml`: its 200 people, venues,
-titles, outputs, identifiers, and links are generated inventions. The rendered
-site keeps that fact in character by describing them as invented dispatches;
-this maintainer note records the formal boundary.
-
-The rendered publication is titled *What we make for ourselves*. Its public
-copy stays in character; this README carries the maintainer-facing explanation.
-The credited Night Shift Committee is fictional too.
-It selects the `wild` visual style so both the bolder presentation and its
-responsive behaviour are exercised by the standard smoke test. Set
-`params.noFate.style` to `clean` to inspect the default presentation.
-
-The fixtures are demonstration material, not starter identity. A downstream
-site should delete them and provide its own content outside the theme.
-
-`content/fixtures/structural-components/` is intentionally absent from the
-main navigation. It verifies the generic render hooks and baseline shortcodes
-introduced by the Section 5 repository foundation.
-
-`content/fixtures/inherited-section-mode/` deliberately omits `visual.mode`.
-It inherits `record` from the generically named `fixtures` section, verifying
-that mode resolution does not depend on a hard-coded directory name.
-
-The archive fixture is a leaf bundle containing a fictional plain-text source
-resource. The essay and note share a demonstration proposition so the rendered
-site can verify related-content behaviour.
-
-Published single-page fixtures exercise all four page modes: the maintenance
-essay uses `editorial`, the optimisation question uses `poster`, the tide-room
-history uses `archive`, and the useful-misplacements register uses `record`.
-CI checks the resolved mode and shared semantic article shell for each page.
-The structural fixture additionally verifies responsive hero output and the
-boundary between public attribution and private permission notes. The search
-index omits utility fixtures and duplicate record abstracts; the Essays and
-Archives sections exercise configurable RSS output and the topic taxonomy.
-
-The Section 27.2 stress set is also hidden from navigation and home lists. It
-contains a 20-image archive contact sheet, a 60-row sortable record table, an
-article combining native MathML, fenced code and footnotes, a genuine local PDF
-artefact download, and separate long English and German titles. CI checks their
-rendered structure and the browser suite covers their accessibility, narrow
-reflow and visual composition.
-
-The archive SVGs and artefact PDF are deterministic generated fixtures. Their
-maintainer sources are
-`.github/scripts/generate-archive-fixture-images.mjs` and
-`.github/scripts/generate-fixture-pdf.py`; ordinary Hugo users do not need
-Node.js or Python to build the committed files.
-
-From the theme repository root, run:
-
-```sh
-hugo server \
-  --source exampleSite \
-  --themesDir ../.. \
-  --buildDrafts
-```
-
-For the production smoke test:
-
-```sh
-hugo \
-  --source exampleSite \
-  --themesDir ../.. \
-  --minify
-```
-
-The site deliberately uses `https://example.invalid/` until an official public
-demonstration is published.
+- `content/`: 홈, 소개, 프로젝트, 학습 기록 글
+- `hugo.yaml`: 사이트 제목, 메뉴, 작성자 등 설정
+- `pages.json`: 배포 주소와 테마 위치 (준비 스크립트가 생성)
+- `i18n/ko.yaml`: 테마 화면 문구의 한국어 번역
+- `layouts/`: 테마를 고치지 않고 덮어쓰는 파일
+- `themes/template/`: No Fate 테마 원본
