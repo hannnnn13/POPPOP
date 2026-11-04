@@ -1,7 +1,6 @@
 ---
-title: "Why make anything?"
-description: "Because the ready-made version keeps asking for a password."
-demo: true
+title: "소개"
+description: "보안과 AI를 공부하는 나를 소개합니다."
 
 content:
   format: "page"
@@ -10,16 +9,8 @@ visual:
   mode: "record"
 ---
 
-Some things arrive polished, sealed, and impossible to repair. Other things
-arrive with a loose handle and a person nearby who remembers why it was built
-that way.
+## 왜 밤걷인지?
 
-We are interested in the second kind.
+전북대학교 컴퓨터인공지능학부 2학년 밤걷입니다. 보안과 AI를 공부하고 있습니다.
 
-*What we make for ourselves* collects arguments, workshop notes, odd projects,
-questions without clean answers, and records of the work required after launch.
-It prefers a useful repair to a perfect replacement and a visible disagreement
-to a suspiciously tidy consensus.
-
-The kettle is load-bearing. The minutes are annotated in three incompatible
-colours. Somebody has labelled the emergency biscuits “infrastructure”.
+'밤걷'은 넷플릭스 시리즈 〈밤을걷다〉에서 따온 이름입니다. 처음으로 많은 생각을 하게 해 준 소중한 작품이라 이름으로 남겼습니다.
