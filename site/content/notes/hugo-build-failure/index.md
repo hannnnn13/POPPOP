@@ -35,3 +35,7 @@ ERROR No Fate homepage: selected_writing references missing or unpublished path 
 1. 배포 스크립트가 쓰는 것과 같은 Hugo 명령으로 내 컴퓨터에서 빌드해, 같은 오류가 나는 것을 먼저 확인했습니다.
 2. 홈 설정에서 지운 글의 참조를 빼고, 쓰지 않는 모듈이 가리키던 다른 예시 글 주소도 함께 정리했습니다.
 3. 다시 빌드해 오류가 사라진 것을 확인했습니다.
+
+## 다시 확인한 결과
+
+수정한 커밋을 push하자 Actions의 빌드와 배포가 모두 성공했고([Actions 기록](https://github.com/hannnnn13/POPPOP/actions/runs/41758654144)), 공개 사이트에도 변경이 반영됐습니다.
