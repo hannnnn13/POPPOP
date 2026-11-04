@@ -28,3 +28,7 @@ AI가 코드를 빠르게, 잘 짜게 되면서 개발은 쉬워졌습니다. �
 | 2023년 7월 | 범죄용 챗봇 WormGPT가 판매되어, 기업 메일 사기 문안을 자동으로 만들어 냄 | [CSO Online](https://www.csoonline.com/article/646441/wormgpt-a-generative-ai-tool-to-compromise-business-emails.html) |
 | 2024년 2월 | 러시아·북한·이란·중국의 해커 그룹이 LLM을 정찰과 피싱 문구 작성에 쓰다 계정이 차단됨 | [Microsoft](https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/) |
 | 2024년 | 홍콩의 한 직원이 참석자 전원이 딥페이크인 화상회의에 속아 15번에 걸쳐 약 2,560만 달러를 송금 | [CNN](https://edition.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk) |
+| 2025년 7월 | 북한 해킹 조직이 챗GPT로 만든 가짜 군무원 신분증으로 국내 기관에 피싱 메일을 보냄 | [뉴스1](https://www.news1.kr/it-science/general-it/5912484) |
+| 2025년 8월 | 악성 npm 패키지가 개발자 PC의 AI 코딩 도구를 실행시켜 비밀 정보를 빼 감 | [Socket](https://socket.dev/blog/nx-packages-compromised) |
+| 2025년 8월 | 범죄자 한 명이 AI 코딩 도구로 침투를 자동화해 최소 17개 기관의 데이터를 빼내고 돈을 요구 | [Anthropic](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025) |
+| 2025년 11월 | 국가 배후로 추정되는 그룹이 AI 에이전트로 약 30개 기관을 공격. 사람은 중간중간 몇 번만 개입 | [Anthropic](https://www.anthropic.com/news/disrupting-AI-espionage) |
