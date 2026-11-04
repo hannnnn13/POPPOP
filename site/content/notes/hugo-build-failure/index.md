@@ -29,3 +29,9 @@ ERROR No Fate homepage: selected_writing references missing or unpublished path 
 ## 원인
 
 바로 전에 테마의 예시 글(essays 폴더)을 지웠는데, 홈 화면 설정 파일(`site/content/_index.md`)에는 그 글의 주소가 남아 있었습니다. 이 테마는 `strictHomeSelections` 설정이 켜져 있어서, 홈이 없는 글을 참조하면 경고에서 끝나지 않고 빌드 자체를 멈춥니다.
+
+## 고친 방법
+
+1. 배포 스크립트가 쓰는 것과 같은 Hugo 명령으로 내 컴퓨터에서 빌드해, 같은 오류가 나는 것을 먼저 확인했습니다.
+2. 홈 설정에서 지운 글의 참조를 빼고, 쓰지 않는 모듈이 가리키던 다른 예시 글 주소도 함께 정리했습니다.
+3. 다시 빌드해 오류가 사라진 것을 확인했습니다.
