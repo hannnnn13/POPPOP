@@ -15,13 +15,6 @@ home:
 opening:
   headline: "안녕하세요, 보안 전문가를 꿈꾸는 밤걷입니다."
   deck: "전북대학교 컴퓨터인공지능학부에서 알고리즘 및 정보보안을 배우고 있습니다."
-  image: "images/demo-opening.svg"
-  image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
-
-visual_interruption:
-  image: "images/demo-field-archive.svg"
-  image_alt: "A tilted contact sheet of numbered red, black and cream observation cards"
-  caption: "Tuesday's evidence, arranged by whoever arrived first."
 
 visual:
   mode: "editorial"
