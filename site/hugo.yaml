@@ -33,7 +33,7 @@ menu:
       url: /projects/
       weight: 20
       params:
-        secondary: 포트폴리오 사이트 구축 활동 및 산출물
+        secondary: 포트폴리오 사이트, 수업 실습, 개인 프로젝트
     - identifier: notes
       name: 학습 기록
       url: /notes/
