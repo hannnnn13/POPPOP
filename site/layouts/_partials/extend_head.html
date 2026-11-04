@@ -6,3 +6,5 @@
 <style>:root[data-nf-style] :is(.page-header h1,.nf-article__title){max-width:none}</style>
 {{- /* 목록 첫 카드 제목과 홈 소개 문단이 좁은 폭에 묶여 중간에 꺾이지 않게 합니다. */ -}}
 <style>.nf-entry--lead .nf-entry__title,:root[data-nf-style] .nf-home__opening-copy>.nf-prose>p:not(:first-child){max-width:none}</style>
+{{- /* 한국어 단어 가운데에서 줄이 바뀌지 않게 띄어쓰기 단위로 줄을 바꿉니다. */ -}}
+<style>body{word-break:keep-all;overflow-wrap:break-word}</style>
