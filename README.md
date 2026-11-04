@@ -17,3 +17,29 @@
 
 - Hugo는 반드시 **extended** 버전을 설치합니다. macOS는 `brew install hugo`, Windows는 `winget install Hugo.Hugo.Extended`로 설치할 수 있습니다.
 - 테마는 `site/themes/template`에 들어 있어 따로 내려받을 필요가 없습니다. npm 등 추가 의존성은 없습니다.
+
+## 내 컴퓨터에서 확인하기
+
+저장소를 내려받은 뒤 아래 명령은 모두 저장소 맨 위 폴더에서 시작합니다.
+
+```sh
+git clone https://github.com/hannnnn13/POPPOP.git
+cd POPPOP
+```
+
+**미리 보기** (파일을 고치면 바로 반영됩니다)
+
+```sh
+cd site
+hugo server --config hugo.yaml,pages.json
+```
+
+브라우저에서 터미널에 나온 주소(기본값 http://localhost:1313/POPPOP/)를 엽니다.
+
+**배포와 같은 방식으로 빌드하기** (push 전에 오류가 없는지 확인할 때)
+
+```sh
+python3 .github/pages_build.py --build
+```
+
+`빌드 완료`가 나오고 `public/index.html`이 생기면 성공입니다. `public/` 폴더는 `.gitignore`로 저장소에 올라가지 않습니다.
