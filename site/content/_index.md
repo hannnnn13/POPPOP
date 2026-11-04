@@ -18,9 +18,6 @@ opening:
   image: "images/demo-opening.svg"
   image_alt: "A red hand-drawn wrench crossing a black grid of labels and arrows"
 
-selected_writing:
-  - "/notes/calibrating-the-window/"
-
 visual_interruption:
   image: "images/demo-field-archive.svg"
   image_alt: "A tilted contact sheet of numbered red, black and cream observation cards"
