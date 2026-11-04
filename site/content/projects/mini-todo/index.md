@@ -1,0 +1,24 @@
+---
+title: "mini-todo"
+date: 2026-10-13
+summary: "React와 Firebase로 만든 로그인 할 일 목록"
+tags:
+  - projects
+
+content:
+  format: "project"
+  status: "완료"
+  media_type: "website"
+  collection: "수업 실습"
+
+visual:
+  mode: "editorial"
+---
+
+## 한눈에 보기
+
+- **시기:** 2026년 10월, 초급프로젝트 7주차 수업 실습
+- **상태:** 완료
+- **역할:** 개인 실습. 수업에서 받은 시작 코드로 직접 따라 하며 배포까지 했습니다.
+
+React 화면에 Firebase 로그인과 데이터베이스(Firestore)를 연결한 할 일 목록 앱입니다.
