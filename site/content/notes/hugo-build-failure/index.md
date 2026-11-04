@@ -43,4 +43,4 @@ ERROR No Fate homepage: selected_writing references missing or unpublished path 
 ## 다음에는
 
 - 파일을 지우기 전에 그 파일을 가리키는 곳이 있는지 먼저 검색합니다.
-- push하기 전에 배포와 같은 명령으로 직접 빌드해 봅니다.
+- push하기 전에 배포와 같은 명령으로 직접 빌드를 하고 성공 여부를 먼저 파악합니다.
