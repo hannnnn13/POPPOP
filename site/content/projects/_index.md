@@ -1,7 +1,6 @@
 ---
-title: "Projects"
-description: "Things built because the available version was almost, but not quite, useful."
-demo: true
+title: "프로젝트"
+description: "직접 만들고 배포해 본 활동과 그 결과물입니다."
 
 content:
   format: "section"
@@ -10,14 +9,14 @@ visual:
   mode: "editorial"
 
 listing:
-  index_label: "Current and historical projects"
+  index_label: "진행 중이거나 완료한 프로젝트"
   filter_fields:
     - id: "status"
-      label: "Status"
+      label: "상태"
       param: "content.status"
     - id: "collection"
-      label: "Domain"
+      label: "분야"
       param: "content.collection"
 ---
 
-Outcomes, detours, spare parts, and the occasional dignified failure.
+만든 것, 막혔던 곳, 고친 방법을 함께 기록합니다.
