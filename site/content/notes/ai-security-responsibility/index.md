@@ -37,3 +37,10 @@ AI가 코드를 빠르게, 잘 짜게 되면서 개발은 쉬워졌습니다. �
 
 - AI로 만든 피싱 메일의 클릭률은 54%로, 일반 피싱(12%)의 약 4.5배였습니다. ([Microsoft 보고서 보도, 2025](https://www.theregister.com/2025/10/16/ai_makes_phishing_45x_more_effective))
 - 2024년 1월부터 10월까지 국내 경찰에 접수된 딥페이크 성범죄는 964건이었고, 검거된 사람의 81.2%가 10대였습니다. ([파이낸셜뉴스, 경찰청 발표](https://www.fnnews.com/news/202410301102016945))
+
+## AI는 막는 쪽에서도 쓰인다
+
+- Google의 AI 에이전트 Big Sleep은 실제 오픈소스 소프트웨어의 취약점을 찾아, 악용되기 전에 막았다고 발표했습니다. ([Google](https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-updates-summer-2025/))
+- 미국 DARPA의 AI 사이버 대회(AIxCC)에서는 AI 시스템이 심어 둔 취약점 63개 중 54개를 찾아내고 43개를 고쳤습니다. ([DARPA, 2025](https://www.darpa.mil/news/2025/aixcc-results))
+
+결국 AI는 도구이고, 공격과 방어 중 어느 쪽에 쓰일지는 사람에게 달려 있습니다.
