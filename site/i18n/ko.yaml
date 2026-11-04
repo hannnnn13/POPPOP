@@ -64,3 +64,5 @@
 - id: nf_canonical_url
   translation: "대표 주소"
 
+- id: nf_figure
+  translation: "그림"
