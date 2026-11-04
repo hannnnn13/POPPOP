@@ -2,3 +2,5 @@
 <style>.nf-table-wrap{position:relative}</style>
 {{- /* 글 본문이 68자 폭에 묶여 넓은 화면 오른쪽이 비는 문제를 막고, 본문 칸 전체 폭을 씁니다. */ -}}
 <style>.nf-article .md-content{max-width:none}</style>
+{{- /* 글과 목록 페이지 제목이 18자 폭에 묶여 여러 줄로 꺾이지 않게 합니다. */ -}}
+<style>:root[data-nf-style] :is(.page-header h1,.nf-article__title){max-width:none}</style>
