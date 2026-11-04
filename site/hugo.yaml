@@ -27,7 +27,7 @@ menu:
       url: /about/
       weight: 10
       params:
-        secondary: 보안 공부 계기, 학습 목표, 역량 및 적용 사례
+        secondary: 관심 분야, 목표와 계획, 사용해 본 기술
     - identifier: projects
       name: 프로젝트
       url: /projects/
