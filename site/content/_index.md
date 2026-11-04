@@ -26,10 +26,6 @@ visual_interruption:
   image_alt: "A tilted contact sheet of numbered red, black and cream observation cards"
   caption: "Tuesday's evidence, arranged by whoever arrived first."
 
-current_projects:
-  - "/projects/lantern-index/"
-
-
 visual:
   mode: "editorial"
   wild_title_lines:
