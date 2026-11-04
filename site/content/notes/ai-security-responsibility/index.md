@@ -37,13 +37,10 @@ AI에게 검증 과정을 스스로 거치게 하더라도, 자기가 작성한 
 | 2025년 8월 | 범죄자 한 명이 AI 코딩 도구로 침투를 자동화해 최소 17개 기관의 데이터를 빼내고 돈을 요구 | [Anthropic](https://www.anthropic.com/news/detecting-countering-misuse-aug-2025) |
 | 2025년 11월 | 국가 배후로 추정되는 그룹이 AI 에이전트로 약 30개 기관을 공격. 사람은 중간중간 몇 번만 개입 | [Anthropic](https://www.anthropic.com/news/disrupting-AI-espionage) |
 
-## 속이는 기술도 좋아졌다
+## 나날이 발전하는 AI 기술
 
 - AI로 만든 피싱 메일의 클릭률은 54%로, 일반 피싱(12%)의 약 4.5배였습니다. ([Microsoft 보고서 보도, 2025](https://www.theregister.com/2025/10/16/ai_makes_phishing_45x_more_effective))
 - 2024년 1월부터 10월까지 국내 경찰에 접수된 딥페이크 성범죄는 964건이었고, 검거된 사람의 81.2%가 10대였습니다. ([파이낸셜뉴스, 경찰청 발표](https://www.fnnews.com/news/202410301102016945))
-
-## AI는 막는 쪽에서도 쓰인다
-
 - Google의 AI 에이전트 Big Sleep은 실제 오픈소스 소프트웨어의 취약점을 찾아, 악용되기 전에 막았다고 발표했습니다. ([Google](https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-updates-summer-2025/))
 - 미국 DARPA의 AI 사이버 대회(AIxCC)에서는 AI 시스템이 심어 둔 취약점 63개 중 54개를 찾아내고 43개를 고쳤습니다. ([DARPA, 2025](https://www.darpa.mil/news/2025/aixcc-results))
 
