@@ -3,9 +3,8 @@ title: "검색"
 layout: "search"
 date: 2026-01-01
 lastmod: 2026-01-01
-summary: "Search essays, notes, questions, projects, and records."
+summary: "사이트의 프로젝트와 학습 기록을 검색합니다."
 placeholder: "검색어를 입력하세요..."
-demo: true
 
 content:
   format: "utility"

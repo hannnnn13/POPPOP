@@ -1,7 +1,6 @@
 ---
-title: "Home"
-description: "Notes on tools, rituals, records, and the beautiful trouble of doing it ourselves."
-demo: true
+title: "홈"
+description: "보안과 AI를 공부하는 밤걷의 포트폴리오입니다."
 
 content:
   format: "home"
