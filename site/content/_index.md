@@ -15,6 +15,9 @@ opening:
   headline: "안녕하세요, 보안 전문가를 꿈꾸는 밤걷입니다."
   deck: "전북대학교 컴퓨터인공지능학부에서 알고리즘 및 정보보안을 배우고 있습니다."
 
+current_projects:
+  - "/projects/portfolio-site/"
+
 visual:
   mode: "editorial"
   wild_title_lines:
