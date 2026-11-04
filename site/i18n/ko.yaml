@@ -4,3 +4,24 @@
 - id: nf_return_home
   translation: "홈으로 돌아가기"
 
+- id: nf_skip_to_content
+  translation: "본문으로 건너뛰기"
+
+- id: nf_primary_navigation
+  translation: "주요 메뉴"
+
+- id: nf_toggle_theme
+  translation: "밝은 화면과 어두운 화면 전환"
+
+- id: nf_back_to_top
+  translation: "맨 위로"
+
+- id: nf_external_link
+  translation: "외부 링크"
+
+- id: nf_scrollable_table
+  translation: "가로로 스크롤되는 표"
+
+- id: nf_heading_link
+  translation: "이 절로 가는 링크: %s"
+
