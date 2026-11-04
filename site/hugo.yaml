@@ -63,7 +63,7 @@ params:
   footer:
     hideCopyright: false
     hidePoweredBy: true
-    text: "Made with [No Fate](https://github.com/OliverObst/no-fate) by [Oliver Obst](https://oliver.obst.eu/) and [Hugo](https://gohugo.io/)."
+    text: "[Oliver Obst](https://oliver.obst.eu/)의 [No Fate](https://github.com/OliverObst/no-fate) 테마와 [Hugo](https://gohugo.io/)로 만들었습니다."
   label:
     text: "메인으로 돌아가기"
   noFate:
