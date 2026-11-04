@@ -36,3 +36,13 @@ AI는 사람과 달리 온전히 나에게 맞춰 주면서도 능력이 뛰어�
 
 - **목표:** AI가 제안한 코드를 그대로 쓰지 않고, 직접 검토하고 설명할 수 있는 개발자
 - **다음 행동:** AI와 함께 작업할 때 무엇을 채택하고 무엇을 고쳤는지 기록합니다. 이 사이트를 만든 과정이 첫 기록입니다. 흔한 웹 취약점 목록(OWASP Top 10)부터 공부해 직접 만든 코드에 적용해 보는 것이 첫 번째 계획입니다.
+
+## 사용해 본 기술
+
+| 기술 | 써 본 곳 |
+| --- | --- |
+| Git, GitHub Actions, Hugo | 이 포트폴리오 사이트 구축과 자동 배포 |
+| Vue, 외부 API(TMDB) | 수업 실습 Movie Lab: API 키를 소스에 넣지 않는 구조로 만들어 GitHub Pages에 배포 |
+| React, Firebase | 수업 실습 mini-todo: 로그인·DB 연동, `.env`로 설정값 분리 |
+| Python, OpenCV, Streamlit | 수업 실습 이미지 탐색기: 픽셀 조작과 이미지 변환 |
+| Linux, Nginx, 무료 AI API(Google AI Studio, Groq) | 개인 프로젝트: 간단한 AI 기반 웹 드라이브 |
