@@ -25,3 +25,7 @@ ERROR No Fate homepage: selected_writing references missing or unpublished path 
 ```
 
 홈 화면의 `selected_writing` 설정이 존재하지 않는 글을 가리키고 있다는 뜻이었습니다.
+
+## 원인
+
+바로 전에 테마의 예시 글(essays 폴더)을 지웠는데, 홈 화면 설정 파일(`site/content/_index.md`)에는 그 글의 주소가 남아 있었습니다. 이 테마는 `strictHomeSelections` 설정이 켜져 있어서, 홈이 없는 글을 참조하면 경고에서 끝나지 않고 빌드 자체를 멈춥니다.
