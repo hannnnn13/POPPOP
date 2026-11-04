@@ -77,3 +77,13 @@ python3 .github/pages_build.py --build
 5. 공개 사이트를 열어 변경이 반영됐는지 확인합니다. 바로 안 보이면 강력 새로고침(macOS `Cmd+Shift+R`)을 합니다.
 
 저장소의 **Settings → Pages → Build and deployment → Source**는 `GitHub Actions`로 설정되어 있어야 합니다.
+
+## 출처와 이용 조건
+
+| 자료 | 사용한 곳 | 원본 | 이용 조건 |
+| --- | --- | --- | --- |
+| No Fate 테마 | 사이트 전체 디자인과 템플릿 (`site/themes/template`) | https://github.com/OliverObst/no-fate | MIT License, `LICENSE` 파일과 푸터에 저작자 표시 유지 |
+| Hugo PaperMod | No Fate가 바탕으로 삼은 원본 테마 | https://github.com/adityatelange/hugo-PaperMod | MIT License, `LICENSE`에 고지 유지 (자세한 내용은 `UPSTREAM.md`) |
+| Hugo | 정적 사이트 생성기 | https://gohugo.io/ | Apache License 2.0 |
+| GitHub Pages 준비 스크립트 | `.github/pages_build.py`, `prepare_github_pages.py` (v3.1) | 초급프로젝트 수업 제공 | 수업 자료 |
+| AI 보안 글의 통계와 사례 | `site/content/notes/ai-security-responsibility/` | 글 안의 각 출처 링크 | 인용 후 출처 표시 |
