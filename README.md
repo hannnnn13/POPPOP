@@ -87,3 +87,10 @@ python3 .github/pages_build.py --build
 | Hugo | 정적 사이트 생성기 | https://gohugo.io/ | Apache License 2.0 |
 | GitHub Pages 준비 스크립트 | `.github/pages_build.py`, `prepare_github_pages.py` (v3.1) | 초급프로젝트 수업 제공 | 수업 자료 |
 | AI 보안 글의 통계와 사례 | `site/content/notes/ai-security-responsibility/` | 글 안의 각 출처 링크 | 인용 후 출처 표시 |
+
+## 직접 만든 것과 AI 도움 구분
+
+- **직접 작성:** 소개, 프로젝트, 학습 기록의 내용과 생각. 내용과 방향은 모두 직접 정하고 검토했습니다.
+- **AI 도움 (Claude):** 문장 다듬기, 설정 수정, 빌드 오류 원인 분석, 화면 검사, AI 보안 사례 조사. AI가 제안한 변경은 직접 읽고 확인한 뒤 커밋했습니다.
+- **외부 자료:** 위 표의 테마와 출처. 이미지는 쓰지 않았습니다.
+- **테마 원본 설명:** 테마의 원래 README는 `THEME_README.md`로 옮겨 보관했습니다.
