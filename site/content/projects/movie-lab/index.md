@@ -26,3 +26,8 @@ Vue로 만든 화면에 TMDB의 실제 영화 데이터를 불러와 보여 주�
 ## 보안 관점에서 본 점
 
 이 페이지는 방문자가 자신의 TMDB API 키를 직접 입력하는 방식입니다. 키가 소스 코드와 배포 파일에 들어가지 않아, 저장소가 공개되어 있어도 키가 새지 않습니다.
+
+## 결과물
+
+- 배포된 페이지: [hannnnn13.github.io/movie-lab-actions](https://hannnnn13.github.io/movie-lab-actions/)
+- 소스 저장소: [github.com/hannnnn13/movie-lab-actions](https://github.com/hannnnn13/movie-lab-actions)
