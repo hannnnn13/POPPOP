@@ -39,7 +39,7 @@ menu:
       url: /notes/
       weight: 30
       params:
-        secondary: Git, 개발 환경 구축 정리 및 메모
+        secondary: 빌드 오류 해결, AI 보안과 책임
     - identifier: search
       name: 검색
       url: /search/
