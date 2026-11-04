@@ -52,11 +52,8 @@ params:
   disableThemeToggle: false
   disableSpecial1stPost: true
   mainSections:
-    - essays
-    - questions
-    - notes
-    - archives
     - projects
+    - notes
   ShowReadingTime: true
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
