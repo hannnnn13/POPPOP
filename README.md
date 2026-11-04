@@ -58,3 +58,22 @@ python3 .github/pages_build.py --build
 | 자동 배포 설정 | `.github/workflows/hugo-pages.yml` |
 
 테마 원본(`site/themes/template`)은 직접 고치지 않고, 필요한 변경은 위의 `site/` 쪽 파일로 덮어씁니다.
+
+## 수정한 뒤 다시 배포하기
+
+1. 위 표의 파일을 고치고, 미리 보기나 배포용 빌드로 오류가 없는지 확인합니다.
+2. 바뀐 내용을 확인하고 커밋합니다.
+   ```sh
+   git status
+   git diff
+   git add <고친 파일>
+   git commit -m "P번호: 바꾼 내용"
+   ```
+3. main 브랜치에 push합니다.
+   ```sh
+   git push origin main
+   ```
+4. GitHub 저장소의 **Actions** 탭에서 `Deploy Hugo to GitHub Pages` 실행이 build와 deploy 모두 초록색(성공)인지 확인합니다.
+5. 공개 사이트를 열어 변경이 반영됐는지 확인합니다. 바로 안 보이면 강력 새로고침(macOS `Cmd+Shift+R`)을 합니다.
+
+저장소의 **Settings → Pages → Build and deployment → Source**는 `GitHub Actions`로 설정되어 있어야 합니다.
