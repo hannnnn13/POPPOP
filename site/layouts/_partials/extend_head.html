@@ -1,2 +1,4 @@
 {{- /* 표 안의 화면 낭독용 숨김 글자가 표 영역 밖으로 빠져나가 모바일에서 페이지가 가로로 넓어지는 문제를 막습니다. */ -}}
 <style>.nf-table-wrap{position:relative}</style>
+{{- /* 글 본문이 68자 폭에 묶여 넓은 화면 오른쪽이 비는 문제를 막고, 본문 칸 전체 폭을 씁니다. */ -}}
+<style>.nf-article .md-content{max-width:none}</style>
