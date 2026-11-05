@@ -14,3 +14,5 @@
 <style>.nf-article[data-page-mode] .nf-article__opening-grid,.nf-article__body{max-width:none}</style>
 {{- /* 홈의 현재 활동 칸이 가로 전체를 쓰고, 항목이 하나여도 칸을 다 채우게 합니다. */ -}}
 <style>:root[data-nf-style] .nf-home-module--work{grid-column:1/-1}.nf-home-module--work .nf-home-module__items{grid-template-columns:repeat(auto-fit,minmax(min(100%,24rem),1fr))}</style>
+{{- /* 넓은 화면에서 홈 오른쪽 아래 소개 문장이 위 문단과 같은 폭을 쓰게 합니다. */ -}}
+<style>@media (min-width:72.01rem){:root[data-nf-style="wild"] .nf-home__opening-copy>.nf-deck{max-width:none;width:41%}}</style>
