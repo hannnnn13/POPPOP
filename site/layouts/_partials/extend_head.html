@@ -10,3 +10,5 @@
 <style>body{word-break:keep-all;overflow-wrap:break-word}</style>
 {{- /* 소개·검색 페이지 본문, 목록 첫머리 글과 설명이 좁은 폭에 묶이지 않게 합니다. */ -}}
 <style>.nf-list[data-page-mode="record"],.nf-list .md-content,.post-description{max-width:none}</style>
+{{- /* 글 머리와 본문 칸이 최대 폭에 묶이지 않고 화면 폭을 다 쓰게 합니다. */ -}}
+<style>.nf-article[data-page-mode] .nf-article__opening-grid,.nf-article__body{max-width:none}</style>
