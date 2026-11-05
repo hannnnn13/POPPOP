@@ -8,3 +8,5 @@
 <style>.nf-entry--lead .nf-entry__title,:root[data-nf-style] .nf-home__opening-copy>.nf-prose>p:not(:first-child){max-width:none}</style>
 {{- /* 한국어 단어 가운데에서 줄이 바뀌지 않게 띄어쓰기 단위로 줄을 바꿉니다. */ -}}
 <style>body{word-break:keep-all;overflow-wrap:break-word}</style>
+{{- /* 소개·검색 페이지 본문, 목록 첫머리 글과 설명이 좁은 폭에 묶이지 않게 합니다. */ -}}
+<style>.nf-list[data-page-mode="record"],.nf-list .md-content,.post-description{max-width:none}</style>
