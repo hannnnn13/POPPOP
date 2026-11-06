@@ -29,5 +29,5 @@ Vue로 만든 화면에 TMDB의 실제 영화 데이터를 불러와 보여 주�
 
 ## 결과물
 
-- 배포된 페이지: [hannnnn13.github.io/movie-lab-actions](https://hannnnn13.github.io/movie-lab-actions/)
+- 배포된 페이지: [hannnnn13.github.io/movie-lab-actions](https://hannnnn13.github.io:443/movie-lab-actions/)
 - 소스 저장소: [github.com/hannnnn13/movie-lab-actions](https://github.com/hannnnn13/movie-lab-actions)

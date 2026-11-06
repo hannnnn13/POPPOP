@@ -30,5 +30,5 @@ React 화면에 Firebase 로그인과 데이터베이스(Firestore)를 연결한
 
 ## 결과물
 
-- 배포된 페이지: [hannnnn13.github.io/mini-todo](https://hannnnn13.github.io/mini-todo/)
+- 배포된 페이지: [hannnnn13.github.io/mini-todo](https://hannnnn13.github.io:443/mini-todo/)
 - 소스 저장소: [github.com/hannnnn13/mini-todo](https://github.com/hannnnn13/mini-todo)
